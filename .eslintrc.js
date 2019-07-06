@@ -22,5 +22,6 @@ module.exports = {
 
     "no-shadow": ["error", { "builtinGlobals": false }],
     "react/destructuring-assignment": 0,
+    "react/jsx-one-expression-per-line": 0,
   }
 };
